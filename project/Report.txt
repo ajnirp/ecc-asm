@@ -1,0 +1,17 @@
+CS 341 Project Report
+
+Team
+
+Sagar Jha
+Raghav Gupta
+Rishiraj Singh
+Rohan Prinja
+
+Project Topic
+
+Implementation of Elliptic Curve Cryptography algorithms in MIPS
+
+Description
+
+In this project we studied Elliptic Curve Cryptography of field elements over prime fields and implemented the addition and multiplication operations between field elements. We then implemented 
+
